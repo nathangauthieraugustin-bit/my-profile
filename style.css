@@ -1,0 +1,119 @@
+body {
+	background-color: #e5e5e5;
+	color: darkblue;
+	font-family: courier;
+	font-size: 20px;
+	line-height: 1.2
+}
+
+h1 {
+	color: black;
+	font-size: 40px;
+	font-weight: 700;
+	text-decoration: underline;
+	font-family: courier;
+	letter-spacing: normal;
+
+
+}
+img {
+  width: 200px;
+}
+
+h2{
+
+	text-decoration: underline;
+	font-family: courier;
+	font-size: 30px;
+	letter-spacing: normal;
+   }
+
+ .but-blue{
+    text-decoration: none;
+   	color: white;
+   	font-size: 26px;
+   	font-weight: 600px;
+   	font-family: serif;
+   	background-color: darkblue;
+   	padding: 15px 20px;
+   	border-radius: 6px;
+  }  	
+
+
+
+   
+
+a:hover{
+
+	color: gray;
+}
+
+
+.main-profile{
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	text-align: center;
+}
+
+.hobie{
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	text-align: center;
+}
+
+.school{
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2)
+	border-radius: 6px;
+	text-align: center;
+}
+
+.background{
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	text-align: center;
+}
+
+.folow-me{
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	text-align: center;
+}
+
+.profile-image{
+	border-radius: 50%;
+	border: 5px solid black;
+}
+
+DIV{
+	width: 700px;
+	margin: 40px auto;
+}
+
+@media (max-width: 500px){
+	div {
+		width: 300px;
+
+	}
+}
+
+@media (max-width: 760px){
+	div {
+		width: 300px ;
+	}
+}
+
+.icon-blue{
+	list-style: none;
+	font-size: 30px;
+	border-radius: 6px;
+}
